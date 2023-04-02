@@ -1,0 +1,67 @@
+.nav{
+    background-color: black;
+}
+
+#logo{
+    height: 100px;
+    width: 250px;
+}
+.tog{
+    border: 2px solid rgb(231, 131, 131) !important;
+    border-radius: 15px;
+    background-color: white;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+#a{
+    background-color: black ;
+}
+#a:hover {
+    color: rgb(231, 131, 131) !important;
+}
+a:hover{
+    color: rgb(231, 131, 131) !important;
+}
+#ulbusiness{
+    background-color: black;
+}
+#footer{
+    background-color: black;
+}
+#footer1{
+    background-color: black;
+}
+.ff{
+    text-decoration: none;
+    color: black;
+}
+.f:hover{
+    color: blue !important;
+}
+.i:hover{
+    color: pink !important;
+}
+.t:hover{
+    color: lightblue !important;
+}
+.l:hover{
+    color: darkblue !important;
+    
+}
+.m:hover{
+    color: white !important;
+}
+#contact{
+    color: rgb(231, 131, 131) !important;
+}
+.contact {
+    display: flex;
+    width: auto;
+    background-color: rgb(231, 131, 131) !important;
+}
